@@ -152,6 +152,26 @@
         "top": "Oben",
         "bottom": "Unten",
         "remove_tracker_s": "Tracker entfernen",
-        "add_tracker": "Tracker hinzufügen"
+        "add_tracker": "Tracker hinzufügen",
+        "seeds": "Seeds",
+        "torrent_s_already_in_session": "Torrent(s) schon in Sitzung",
+        "remote": "Remote",
+        "options": "Optionen",
+        "enable_websocket_api": "WebSocket API aktivieren",
+        "security": "Sicherheit",
+        "access_token": "Access token",
+        "certificate_public_key": "Zertifikat (public key)",
+        "statistics": "Statistiken",
+        "ratio": "Seed Verhältnis",
+        "pieces": "Teile",
+        "downloaded": "Heruntergeladen",
+        "uploaded": "Hochgeladen",
+        "storage_mode": "Storage Modus",
+        "sparse": "Sparse",
+        "full": "Full",
+        "show_qr_code": "<a href=\"#\">QR Code anzeigen</a>",
+        "invalid_download_rate_limit": "Ungültiges DL Limit",
+        "invalid_upload_rate_limit": "Ungültiges UL Limit",
+        "error_when_loading_torrent": "Fehler beim Laden des Torrents"
     }
 }
